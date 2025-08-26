@@ -1,5 +1,74 @@
 # 💫 About Me:
-💻 I'm currently working on<br><br>A C2C e-commerce web application using HTML, CSS, JavaScript (jQuery), PHP, and MySQL, with features like chat, notifications, invoices, and reports.<br><br>Academic projects exploring data structures & algorithms, usability engineering, and applied mathematics.<br><br>Experimenting with Django REST Framework APIs for authentication, user tracking, and transaction handling.<br><br>🤝 I'm looking to collaborate on<br><br>Full-stack web applications (PHP, MySQL, Django, JavaScript)<br><br>AI-powered tools that support learning or development workflows<br><br>Open-source projects related to e-commerce, APIs, or developer productivity<br><br>🛠️ I'm looking for help with<br><br>Best practices for scaling small-to-medium sized applications<br><br>Cloud deployment and CI/CD workflows for academic and portfolio projects<br><br>Optimizing database design for performance and security<br><br>📚 I'm currently learning<br><br>Advanced Data Structures & Algorithms for problem-solving efficiency<br><br>REST API development with Django<br><br>Software engineering principles for real-world systems<br><br>4IR technologies and their impact on IT solutions in Africa<br><br>💬 Ask me about<br><br>Building e-commerce systems from scratch (frontend + backend)<br><br>Web technologies (HTML, CSS, JavaScript, PHP, MySQL)<br><br>Balancing studies & project work as a full-time IT student<br><br>Tech trends like AI, emotional AI, and 4IR in Africa<br><br>⚡ Fun fact<br><br>When I’m not coding or solving algorithm problems, I enjoy exploring how technology trends shape real-world industries, from banking to education.
+# Hi there 👋, I'm [Your Name]
+
+💡 Passionate IT student exploring the intersection of **AI, computer vision, and software engineering**.  
+🚀 Currently building projects that bridge **academic foundations** with **real-world tech trends** like 4IR, biometrics, and fintech innovation.  
+
+---
+
+### 💻 I'm currently working on
+- Developing a **biometric authentication system** using **computer vision and AI** for secure and user-friendly verification  
+- Experimenting with **machine learning models** for facial recognition and fraud detection use cases  
+- Exploring **API integrations** to connect biometric systems with real-world applications (fintech, education, security)  
+- Academic projects in **data structures, usability engineering, and applied mathematics** to strengthen my problem-solving foundation  
+
+---
+
+### 🤝 I'm looking to collaborate on
+- **AI-powered applications** (biometrics, emotion recognition, or educational AI tools)  
+- **Computer vision projects** involving image processing, recognition, and automation  
+- **Open-source initiatives** at the intersection of **AI, security, and financial technology**  
+
+---
+
+### 🛠️ I'm looking for help with
+- **Optimizing AI models** for accuracy, speed, and scalability  
+- **Cloud deployment** of machine learning solutions (Docker, AWS/Azure/GCP)  
+- **Integrating biometric systems** into enterprise-level applications securely  
+
+---
+
+### 📚 I'm currently learning
+- **Advanced Data Structures & Algorithms** for efficient solutions  
+- **Computer vision techniques** (OpenCV, TensorFlow/Keras, deep learning for image recognition)  
+- **REST API development** with Django REST Framework  
+- **4IR technologies** like AI, IoT, and automation, with a focus on **their impact in Africa**  
+
+---
+
+### 💬 Ask me about
+- **AI in authentication and security** (biometrics, fraud prevention, facial recognition)  
+- **Computer vision** workflows and implementation  
+- **Tech trends shaping the banking and financial sector** (AI, 4IR, and digital transformation)  
+- **Balancing student research with building real-world applications**  
+
+---
+
+### ⚡ Fun fact
+- I’m fascinated by how **AI-driven biometrics** could replace traditional passwords in the near future, making authentication both **more secure and more human-centered**.  
+
+---
+
+### 🔧 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,django,html,css,javascript,php,mysql,git,github,docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+⭐️ Feel free to connect with me and explore my work!
+
 
 
 ## 🌐 Socials:
