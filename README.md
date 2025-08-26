@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Arav
 
 💡 Passionate IT student exploring the intersection of **AI, computer vision, and software engineering**.  
 🚀 Currently building projects that bridge **academic foundations** with **real-world tech trends** like 4IR, biometrics, and fintech innovation.  
@@ -46,24 +46,6 @@
 
 ### ⚡ Fun fact
 - I’m fascinated by how **AI-driven biometrics** could replace traditional passwords in the near future, making authentication both **more secure and more human-centered**.  
-
----
-
-### 🔧 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,django,html,css,javascript,php,mysql,git,github,docker" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
 
 ---
 
